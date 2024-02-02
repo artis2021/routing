@@ -1,0 +1,25 @@
+.ErrorPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+    background-color: #f2f2f2;
+}
+
+.ErrorPage h1{
+    color: red;
+    font-size: 50px;
+}
+
+.link{
+    padding: 20px 60px;
+    /* background-color: rebeccapurple; */
+    border-radius: 50px;
+    box-shadow: 0 5px 6px rgba(0, 0, 0, 0.171);
+    text-decoration: none;
+    font-size: 30px;
+    background-color: white;
+
+}
